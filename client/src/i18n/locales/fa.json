@@ -1,0 +1,50 @@
+{
+  "common": {
+    "login": "ورود",
+    "register": "ثبت نام",
+    "logout": "خروج",
+    "search": "جستجو",
+    "cart": "سبد خرید",
+    "profile": "پروفایل",
+    "orders": "سفارشات",
+    "settings": "تنظیمات",
+    "account": "حساب کاربری",
+    "messages": "پیام‌ها",
+    "loggedInAs": "وارد شده با نام",
+    "ecommerce": "فروشگاه",
+    "toggleMenu": "نمایش منو",
+    "home": "خانه",
+    "products": "محصولات",
+    "categories": "دسته‌بندی‌ها"
+  },
+  "product": {
+    "addToCart": "افزودن به سبد خرید",
+    "outOfStock": "ناموجود",
+    "price": "قیمت",
+    "quantity": "تعداد",
+    "description": "توضیحات",
+    "category": "دسته‌بندی"
+  },
+  "cart": {
+    "empty": "سبد خرید شما خالی است",
+    "checkout": "تکمیل خرید",
+    "total": "جمع کل",
+    "remove": "حذف"
+  },
+  "order": {
+    "orderID": "شماره سفارش",
+    "orderDate": "تاریخ سفارش",
+    "orderStatus": "وضعیت سفارش",
+    "orderTotal": "مبلغ کل",
+    "shippingAddress": "آدرس تحویل",
+    "paymentMethod": "روش پرداخت"
+  },
+  "auth": {
+    "email": "ایمیل",
+    "password": "رمز عبور",
+    "confirmPassword": "تایید رمز عبور",
+    "forgotPassword": "رمز عبور را فراموش کرده‌اید؟",
+    "loginSuccess": "ورود با موفقیت انجام شد",
+    "registerSuccess": "ثبت نام با موفقیت انجام شد"
+  }
+}
